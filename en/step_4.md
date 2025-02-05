@@ -1,6 +1,16 @@
+--- task ---
+➡️ 🦡 x12, 🍄 x2
+--- /task ---
+
+<div class="c-project-output">
+```
+🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🍄🍄
+```
+</div>
+
 
 <div class="c-project-callout c-project-callout--tip">
-### 👀 Look
+## 👀 Hint
 
 <div class="c-project-code">
 --- code ---
@@ -17,15 +27,6 @@ mushroom()
 <div class="c-project-output">
 ```
 🦡🍄
-```
-</div>
---- task ---
-### ➡️ Draw 12 badgers and then 2 mushrooms.
---- /task ---
-
-<div class="c-project-output">
-```
-🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🍄🍄
 ```
 </div>
 

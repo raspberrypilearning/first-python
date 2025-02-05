@@ -1,5 +1,5 @@
 --- task ---
-<h2 class="c-project-heading--task">➡️ Draw 100 badgers</h2>
+➡️ 🦡 x100
 --- /task ---
 
 <div class="c-project-output">
@@ -9,7 +9,7 @@
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
-### 👀 Hint 
+## 👀 Hint 
 
 <div class="c-project-code">
 --- code ---

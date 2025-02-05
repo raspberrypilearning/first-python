@@ -1,5 +1,5 @@
 --- task ---
-### ➡️ 🦡 x2
+➡️ 🦡 x2
 --- /task ---
 
 <div class="c-project-output">
