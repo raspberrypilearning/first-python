@@ -4,7 +4,6 @@
 ➡️ Click 'Run' to see what your code does
 --- /task ---
 
-Make the pattern
 <div class="c-project-output">
 ```
 🦡
