@@ -1,5 +1,5 @@
 --- task ---
-➡️ Click **Run**.
+### Click **Run**
 --- /task ---
 
 

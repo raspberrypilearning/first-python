@@ -1,8 +1,8 @@
 
 <div class="c-project-callout c-project-callout--tip">
-### 
+### Example
 
-You can also draw mushrooms
+This code draws one mushroom.
 
 <div class="c-project-code">
 --- code ---

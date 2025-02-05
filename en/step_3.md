@@ -1,5 +1,5 @@
 <div class="c-project-callout c-project-callout--tip">
-### 
+### Example
 
 This code draws three badgers.
 
@@ -16,7 +16,7 @@ for i in range(3):
 </div>
 
 --- task ---
-➡️ Draw 100 badgers.
+### Draw 100 badgers
 --- /task ---
 
 🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡
