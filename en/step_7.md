@@ -1,5 +1,5 @@
 --- task ---
-➡️ 🦡 x4, wait one second in between
+➡️ 🦡 x4, wait one second between each
 --- /task ---
 
 <div class="c-project-output">
@@ -23,7 +23,7 @@ for i in range(3):
 </div>
 <div class="c-project-output" style="bgcolor:white">
 ```
-
+![Four badgers appearing one after the other, one second apart](images/four-badgers.gif)
 ```
 </div>
 
