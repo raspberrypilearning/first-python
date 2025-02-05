@@ -2,4 +2,10 @@
 
 --- task ---
 Congratulations on completing the project.
+
+You have learned about:
+- Calling functions
+- Count-controlled loops 
+- Code inside and outside of a loop
+- Waiting during a program
 --- /task ---
