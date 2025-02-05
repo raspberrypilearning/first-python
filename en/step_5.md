@@ -1,8 +1,6 @@
 <div class="c-project-callout c-project-callout--tip">
 ### 👀 Look
 
-This code draws one badger every second.
-
 <div class="c-project-code">
 --- code ---
 ---
@@ -17,8 +15,13 @@ for i in range(3):
 
 </div>
 
+<div class="c-project-output">
+```
+🦡🦡🦡
+```
+</div>
+
 --- task ---
 ### ➡️ Wait 1 second between each emoji
 --- /task ---
 
-🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡
