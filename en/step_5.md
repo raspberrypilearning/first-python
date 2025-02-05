@@ -1,17 +1,16 @@
-
 <div class="c-project-callout c-project-callout--tip">
-### Example
+### 👀 Look
 
-This code draws one mushroom.
+This code draws one badger every second.
 
 <div class="c-project-code">
 --- code ---
 ---
 language: python
 ---
-from resources import badger, mushroom
-
-mushroom()
+for i in range(3):
+    badger()
+    sleep(1)
 --- /code ---
 
 </div>
@@ -19,10 +18,7 @@ mushroom()
 </div>
 
 --- task ---
-➡️ After the 12 badgers, draw 2 mushrooms
+### ➡️ Add a gap of 1 second in between each badger
 --- /task ---
 
 🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡
-
-🍄
-🍄
