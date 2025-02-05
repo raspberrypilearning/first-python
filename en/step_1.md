@@ -1,10 +1,10 @@
 <h2 class="c-project-heading--task">How to play</h2>
 
 --- task ---
-Your task is here:
-
-➡️ Click 'Run' to see what your code does
+➡️ Click 'Run' 
 --- /task ---
+
+Match this output:
 
 <div class="c-project-output">
 ```
@@ -12,5 +12,6 @@ Your task is here:
 ```
 </div>
 
+Then, click the > arrow for the next challenge.
 
 
