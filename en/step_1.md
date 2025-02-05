@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Make this</h2>
+<h2 class="c-project-heading--task">Do it</h2>
 --- task ---
 ➡️ Click 'Run' 
 --- /task ---
