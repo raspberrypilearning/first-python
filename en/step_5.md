@@ -1,16 +1,17 @@
 
 <div class="c-project-callout c-project-callout--tip">
-### New
+### 
 
-This code draws three badgers.
+You can also draw mushrooms
 
 <div class="c-project-code">
 --- code ---
 ---
 language: python
 ---
-for i in range(3):
-    badger()
+from resources import badger, mushroom
+
+mushroom()
 --- /code ---
 
 </div>
