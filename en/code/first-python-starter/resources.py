@@ -1,9 +1,10 @@
-from time import sleep
-
-
 def badger():
     print("🦡", end="")
 
 
 def mushroom():
     print("🍄", end="")
+
+
+def snake():
+    print("🐍", end="")
