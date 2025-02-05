@@ -19,10 +19,9 @@ for i in range(3):
 --- /code ---
 </div>
 </div>
-<div class="c-project-output" style="bgcolor:white">
-```
+![Three badgers appearing one after the other, one second apart](images/three-badgers.gif)
 
-```
+
 </div>
 
 
