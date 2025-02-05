@@ -19,10 +19,10 @@ language: python
 for i in range(3):
     badger()
 --- /code ---
+</div>
 
 ## = 
 
-</div>
 <div class="c-project-output">
 ```
 🦡🦡🦡
