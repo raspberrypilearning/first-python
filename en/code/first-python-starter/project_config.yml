@@ -1,0 +1,4 @@
+name: "Baby Python"
+identifier: "first-python-starter"
+type: 'python'
+build: true
