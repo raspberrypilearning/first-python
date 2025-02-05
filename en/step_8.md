@@ -1,5 +1,4 @@
-<h2 class="c-project-heading--task">Final challenge</h2>
-
+<h2 class="c-project-heading--task">☠️ Task</h2>
 --- task ---
 ➡️ 🦡 x4, wait 1 sec
 ➡️ 🍄 x2, wait 2 secs 
