@@ -24,7 +24,7 @@ mushroom()
 --- /code ---
 </div>
 </div>
-<div class="c-project-output">
+<div class="c-project-output" style="bgcolor:white">
 ```
 🦡🍄
 ```
