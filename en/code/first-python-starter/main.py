@@ -1,6 +1,6 @@
 # 🦡 🍄 🐍
-from resources import badger
 from time import sleep
+from resources import badger, mushroom
 
 # Draw a badger
 badger()

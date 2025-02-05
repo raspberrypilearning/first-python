@@ -17,8 +17,6 @@
 ---
 language: python
 ---
-from resources import badger, mushroom
-
 mushroom()
 --- /code ---
 </div>
