@@ -18,11 +18,12 @@ for i in range(3):
     sleep(1)
 --- /code ---
 </div>
-</div>
 ![Three badgers appearing one after the other, one second apart](images/three-badgers.gif)
 
-
 </div>
+
+
+
 
 
 
