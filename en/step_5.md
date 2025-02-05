@@ -1,5 +1,6 @@
 
 <div class="c-project-callout c-project-callout--tip">
+### New
 
 This code draws three badgers.
 
