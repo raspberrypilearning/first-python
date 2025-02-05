@@ -21,9 +21,7 @@ for i in range(3):
 --- /code ---
 </div>
 
-## = 
-
-<div class="c-project-output">
+<div class="c-project-output" style="bgcolor:white">
 ```
 🦡🦡🦡
 ```
