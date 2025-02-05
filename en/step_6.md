@@ -17,16 +17,15 @@
 ---
 language: python
 ---
-from resources import badger, mushroom
-
-badger()
+for i in range(3):
+    badger()
 mushroom()
 --- /code ---
 </div>
 </div>
 <div class="c-project-output" style="bgcolor:white">
 ```
-🦡🍄
+🦡🦡🦡🍄
 ```
 </div>
 

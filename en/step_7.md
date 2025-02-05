@@ -1,5 +1,14 @@
+--- task ---
+➡️ 🦡 x4, wait one second in between
+--- /task ---
+
+<div class="c-project-output">
+
+</div>
+
+
 <div class="c-project-callout c-project-callout--tip">
-### 👀 Look
+## 👀 Hint
 
 <div class="c-project-code">
 --- code ---
@@ -10,18 +19,13 @@ for i in range(3):
     badger()
     sleep(1)
 --- /code ---
-
 </div>
-
 </div>
-
-<div class="c-project-output">
+<div class="c-project-output" style="bgcolor:white">
 ```
-🦡🦡🦡
+
 ```
 </div>
 
---- task ---
-### ➡️ Wait 1 second between each emoji
---- /task ---
+
 
