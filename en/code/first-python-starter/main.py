@@ -6,4 +6,5 @@ def badger():
     print("🦡")
 
 
-badger()
+for i in range(1):
+    badger()
