@@ -3,9 +3,10 @@
 --- task ---
 Congratulations on completing the project.
 
-You have learned about:
-🥕 Calling functions
-🍅 Count-controlled loops 
-🥦 Code inside and outside of a loop
-🍄‍🟫 Waiting during a program
+You can now:
+
+🥕 Call a function
+🍅 Use a 'for' loop
+🥦 Use indentation to show which code to repeat
+🍄‍🟫 Wait during a program
 --- /task ---
