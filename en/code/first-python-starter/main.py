@@ -3,7 +3,7 @@ from time import sleep
 
 
 def badger():
-    print("🦡")
+    print("🦡", end="")
 
 
 for i in range(1):

@@ -1,5 +1,5 @@
 --- task ---
-➡️ Draw 1 badger per second for 10 seconds
+➡️ Draw 1 badger per second for 12 seconds
 --- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
