@@ -1,3 +1,3 @@
-<h2 class="c-project-heading--task">YAY!</h2>
+<h2 class="c-project-heading--task">🎉 You did it! </h2>
 
- # 🎉 You did it! 
+Congratulations on completing the project.
