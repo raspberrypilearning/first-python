@@ -1,5 +1,5 @@
-# Resources
 # 🦡 🍄 🐍
+from time import sleep
 
 
 def badger():
