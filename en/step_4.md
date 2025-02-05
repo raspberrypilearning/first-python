@@ -22,11 +22,14 @@ from resources import badger, mushroom
 mushroom()
 --- /code ---
 </div>
-</div>
+
 <div class="c-project-output" style="bgcolor:white">
 ```
 🍄
 ```
 </div>
+
+</div>
+
 
 
