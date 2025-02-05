@@ -1,4 +1,5 @@
 --- task ---
-➡️ Draw two badgers
+➡️ Draw two badgers.
 --- /task ---
 
+🦡🦡

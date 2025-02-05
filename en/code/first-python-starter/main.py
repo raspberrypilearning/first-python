@@ -1,10 +1,4 @@
 # 🦡 🍄 🐍
-from time import sleep
+from resources import badger
 
-
-def badger():
-    print("🦡", end="")
-
-
-for i in range(1):
-    badger()
+badger()
