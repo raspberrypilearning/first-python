@@ -1,22 +1,41 @@
-## What can you do now?
+<h2 class="c-project-heading--task">Code Challenge</h2>
 
-If you are following the [PATH NAME](https://projects.raspberrypi.org/en/pathways/PATH-NAME) pathway, you can move on to the [NEXT PROJECT/PATH NAME](https://projects.raspberrypi.org/en/projects/PROJECT-SLUG) project. In this project, you will do DESCRIPTION.
+--- task ---
 
------- OR ---------
+This project contains a series of challenges for you to solve by writing some code. 
 
-Try our [PROJECT/PATH NAME](https://projects.raspberrypi.org/en/collections/PATH-SLUG) project pathway where you will DESCRIPTION.
+➡️ Move to the next step to start the first challenge.
 
---- print-only --- 
+--- /task ---
 
-![ALT TEXT](images/IMAGE-FROM-PROJECT.png)
 
---- /print-only ---
+<div class="c-project-code">
+--- code ---
+---
+language: python
+line_numbers: true
+line_number_start: 1
+---
+from hidden import Puzzle
 
---- no-print ---
+# The number of the puzzle
+puzzle = Puzzle(1)
 
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/STARTER_PROJECT_SLUG" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
+# A list of randomly generated numbers
+numbers = puzzle.get_input()
 
---- /no-print ---
+# Set the variable 'answer' to your answer
+answer = None
 
-Or, why not try out another [CODING_LANGUAGE](https://projects.raspberrypi.org/en/projects?software%5B%5D=CODING_LANGUAGE) project.
+puzzle.test_answer(answer)
+--- /code ---
+
+</div>
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+If you want to reset your project to the starter code, you can copy and paste it from here.
+
+</div>

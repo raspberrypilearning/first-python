@@ -1,1 +1,9 @@
-print("My first Python pointless commit")
+# Resources
+# 🦡 🍄 🐍
+
+
+def badger():
+    print("🦡")
+
+
+badger()
