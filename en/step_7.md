@@ -1,5 +1,5 @@
 --- task ---
-➡️ 🦡 x4, wait one second between each
+➡️ 🦡 x4, 1 sec between each
 --- /task ---
 
 ![Four badgers appearing one after the other, one second apart](images/four-badgers.gif)
