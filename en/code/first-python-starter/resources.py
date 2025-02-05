@@ -6,4 +6,4 @@ def badger():
 
 
 def mushroom():
-    print("\n🍄")
+    print("🍄", end="")

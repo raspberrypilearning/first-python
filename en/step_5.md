@@ -18,7 +18,7 @@ for i in range(3):
 </div>
 
 --- task ---
-### ➡️ Add a gap of 1 second in between each badger
+### ➡️ Add a gap of 1 second in between each badger or mushroom
 --- /task ---
 
 🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡

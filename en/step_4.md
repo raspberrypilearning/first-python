@@ -1,6 +1,6 @@
 
 <div class="c-project-callout c-project-callout--tip">
-### 👀
+### 👀 Look
 
 This code draws one badger and one mushroom.
 
@@ -23,7 +23,4 @@ mushroom()
 ### ➡️ Draw 12 badgers and then 2 mushrooms.
 --- /task ---
 
-🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡
-
-🍄
-🍄
+🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🍄🍄
