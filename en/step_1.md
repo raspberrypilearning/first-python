@@ -2,7 +2,7 @@
 ➡️ Click 'Run' 
 --- /task ---
 
-Match this output:
+Match the output:
 
 <div class="c-project-output">
 ```
@@ -10,6 +10,6 @@ Match this output:
 ```
 </div>
 
-Then, click the > arrow for the next challenge.
+Click the > arrow for the next challenge.
 
 

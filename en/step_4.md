@@ -1,10 +1,10 @@
 --- task ---
-➡️ 🦡 x12, 🍄 x2
+➡️ 🦡 x1, 🍄 x1
 --- /task ---
 
 <div class="c-project-output">
 ```
-🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🦡🍄🍄
+🦡🍄
 ```
 </div>
 
@@ -19,14 +19,13 @@ language: python
 ---
 from resources import badger, mushroom
 
-badger()
 mushroom()
 --- /code ---
 </div>
 </div>
 <div class="c-project-output" style="bgcolor:white">
 ```
-🦡🍄
+🍄
 ```
 </div>
 
