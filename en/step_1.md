@@ -1,6 +1,10 @@
+<h2 class="c-project-heading--task">How to play</h2>
+
 --- task ---
-<h2 class="c-project-heading--task">➡️ Click Run</h2>
+➡️ Click 'Run' to see what your code does
 --- /task ---
+
+Make the pattern
 <div class="c-project-output">
 ```
 🦡
